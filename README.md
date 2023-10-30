@@ -11,6 +11,6 @@
 
 Ниже представлены скрины работы приложения.
 
-![](1)
+![](https://github.com/PavelLogeiko/JDK_HW05/blob/main/images/1.png)
 
-![])2)
+![](https://github.com/PavelLogeiko/JDK_HW05/blob/main/images/2.png)
